@@ -1,4 +1,2 @@
 config
-mongodb.js
 node_modules
-playground
