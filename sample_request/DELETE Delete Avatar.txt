@@ -1,0 +1,4 @@
+METHOD: DELETE
+URL: localhost:3000/users/me/avatar
+REQUEST:
+(No body request)
