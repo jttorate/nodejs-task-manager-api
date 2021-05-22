@@ -1,7 +1,0 @@
-METHOD: POST
-URL: localhost:3000/users/logoutAll
-REQUEST:
-(No body request)
-
-NOTES:
-It will remove all the tokens stored on that user

@@ -1,5 +1,0 @@
-METHOD: GET
-URL: 	localhost:3000/tasks
-	localhost:3000/tasks?completed=true&sortBy=createdAt:desc
-REQUEST:
-(No body request)

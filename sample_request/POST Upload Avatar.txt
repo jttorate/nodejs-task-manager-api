@@ -1,5 +1,0 @@
-METHOD: POST
-URL: localhost:3000/users/me/avatar
-REQUEST: (form-data)
-Key - avatar
-Value - browsed picture (jpg)

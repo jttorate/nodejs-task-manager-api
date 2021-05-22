@@ -1,6 +1,0 @@
-METHOD: PATCH
-URL: localhost:3000/tasks/6098f9171b68aa4a9cf6e7ae
-REQUEST:
-{
-    "completed": true
-}

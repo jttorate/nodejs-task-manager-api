@@ -1,8 +1,0 @@
-METHOD: PATCH
-URL: localhost:3000/users/me
-REQUEST:
-{
-    "name": "Junnel Torate",
-    "password": "hello123!",
-    "age": 28
-}

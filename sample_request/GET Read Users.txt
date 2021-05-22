@@ -1,4 +1,0 @@
-METHOD: GET
-URL: localhost:3000/users
-REQUEST:
-(No body request)

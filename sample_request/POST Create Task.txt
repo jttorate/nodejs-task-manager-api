@@ -1,7 +1,0 @@
-METHOD: POST
-URL: localhost:3000/tasks
-REQUEST:
-{
-    "description": "My Task 1",
-    "completed": false
-}

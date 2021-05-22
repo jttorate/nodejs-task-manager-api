@@ -1,4 +1,0 @@
-METHOD: DELETE
-URL: localhost:3000/users/me
-REQUEST:
-(No body request)

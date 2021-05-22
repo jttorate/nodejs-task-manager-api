@@ -1,4 +1,0 @@
-METHOD: POST
-URL: localhost:3000/users/logout
-REQUEST:
-(No body request)
